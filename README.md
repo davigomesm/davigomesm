@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Davi Gomes
 
-- 🌱 I’m currently learning python, html, css and javascript ...
+- 🌱 I’m currently learning python...
 - 📫 How to reach me: davigomes.m1@gmail.com
 
 <div align="center">
