@@ -1,5 +1,6 @@
-## Olá Mundo, Eu sou o Davi Gomes 🐍👋🏼
+Olá Mundo, Eu sou o Davi Gomes 🐍👋🏼
 
+##
 - 👨🏼‍🎓 Graduando em ciência da computação
 - 🌱 Estudando Python, Html, Css, JavaScript e outras coisas...
 - 🎮 Jogo Cs para me distrair
@@ -27,3 +28,4 @@
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+##
