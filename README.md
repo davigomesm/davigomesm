@@ -1,5 +1,4 @@
 ##Olá Mundo, Eu sou o Davi Gomes 🐍👋🏼
-
 - 👨🏼‍🎓 Graduando em ciência da computação
 - 🌱 Estudando Python, Html, Css, JavaScript e outras coisas...
 - 🎮 Jogo Cs para me distrair
