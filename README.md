@@ -1,7 +1,9 @@
-### Hello there 👋, I'm Davi Gomes
+### Olá Mundo, Eu sou o Davi Gomes 👋🏼
 
-- 🌱 I’m currently learning python...
-- 📫 How to reach me: davigomes.m1@gmail.com
+- 👨🏼‍🎓 Graduando em ciência da computação
+- 🌱 Estudando Python, Html, Css, JavaScript e outras coisas...
+- 📫 Email: davigomes.m1@gmail.com
+- 📲 Telefone: (85)991480647
 
 <div align="center">
   <a href="https://github.com/davigomesm">
