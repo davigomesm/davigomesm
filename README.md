@@ -3,7 +3,7 @@
 - 👨🏼‍🎓 Graduando em ciência da computação
 - 🌱 Estudando Python, Html, Css, JavaScript e outras coisas...
 - 📫 Email: davigomes.m1@gmail.com
-- 📲 Telefone: (85)991480647
+- 📲 Telefone: (85) 991480647
 
 <div align="center">
   <a href="https://github.com/davigomesm">
