@@ -1,4 +1,9 @@
-## Olá Mundo, Eu sou o Davi Gomes 🐍👋🏼
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25944f&height=120&section=header"/>
+
+##
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25944f&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Davi+Gomes;Eu+tenho+22+anos;Sou+estudante+em+ciência+da+computação;Seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+
 - 👨🏼‍🎓 Graduando em ciência da computação
 - 🌱 Estudando Python, Html, Css, JavaScript, mySQL, MongoDB e outras coisas...
 - 🎮 Jogo Cs para me distrair
@@ -26,3 +31,14 @@
   <img align="center" alt="Davi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Davi-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
 </div>
+
+##
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davigomesm&show_icons=true&count_private=true&hide_border=true&title_color=25944f&icon_color=25944f&text_color=c9d1d9&bg_color=0d1117" alt="Davi Gomes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigomesm&layout=compact&hide_border=true&title_color=25944f&text_color=25944f&bg_color=0d1117" />
+</div>
+
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=davigomesm&bg_color=26252d&color=329130&line=3fc82d&point=5fff33&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
