@@ -2,7 +2,7 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25944f&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Davi+Gomes;Eu+tenho+22+anos;Sou+estudante+em+ciência+da+computação;Seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25944f&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Davi+Gomes;Eu+tenho+22+anos;Sou+estudante+de+programação;Graduando+em+Ciência+da+computação;Seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 - 👨🏼‍🎓 Graduando em ciência da computação
 - 🌱 Estudando Python, Html, Css, JavaScript, mySQL, MongoDB e outras coisas...
