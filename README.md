@@ -2,22 +2,22 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=24D868&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Davi+Gomes;Eu+tenho+22+anos;Sou+estudante+de+programação;Graduando+em+Ciência+da+computação;Seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=24D868&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Davi+Gomes;I'm+22+years+old;I'm+a+programming+student;Majoring+in+computer+science;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
-- 👨🏼‍🎓 Graduando em ciência da computação
-- 🌱 Estudando Html, Css, JavaScript, Node.js ...
-- 🎮 Jogo Cs para me distrair
+- 👨🏼‍🎓 Graduating in Computer Science
+- 🌱 Studying Html, Css, JavaScript, Node.js...
+- 🎮 Cs game to distract myself
 - 📫 Email: davigomes.m1@gmail.com
-- 📲 Telefone: (85) 991480647
+- 📲 Contact number: (85) 991480647
 
-### Redes e contatos 🌎👇🏻
+### Social network and contacts 🌎👇🏻
 <div> 
   <a href="https://www.instagram.com/davigomes_m" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "davigomes.m1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-gomes-10a61423b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### Habilidades e Tecnologias 👨🏻‍💻👇🏻
+### Skills and technologies 👨🏻‍💻👇🏻
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
