@@ -8,7 +8,7 @@
 - 🌱 Studying Html, Css, JavaScript, Node.js...
 - 🎮 Cs game to distract myself
 - 📫 Email: davigomes.m1@gmail.com
-- 📲 Contact number: (85) 991480647
+- 📲 Contact number: +55 (85) 991480647
 
 ### Social network and contacts 🌎👇🏻
 <div> 
