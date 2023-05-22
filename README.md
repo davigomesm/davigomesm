@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=24D868&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Davi+Gomes;I'm+22+years+old;I'm+a+programming+student;Majoring+in+computer+science;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 - 👨🏼‍🎓 Graduating in Computer Science
-- 🌱 Studying Html, Css, JavaScript, Node.js...
+- 🌱 Studying Html, Css, JavaScript...
 - 🎮 Cs game to distract myself
 - 📫 Email: davigomes.m1@gmail.com
 - 📲 Contact number: +55 (85) 991480647
