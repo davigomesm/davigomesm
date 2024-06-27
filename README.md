@@ -2,7 +2,7 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=24D868&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Davi+Gomes;I'm+22+years+old;I'm+a+programming+student;Majoring+in+computer+science;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=24D868&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Davi+Gomes;I'm+23+years+old;I'm+a+programming+student;Majoring+in+computer+science;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 - 👨🏼‍🎓 Graduating in Computer Science
 - 🌱 Studying Html, Css, JavaScript...
@@ -23,7 +23,7 @@
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Davi-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Davi-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-plain.svg">
   <img align="center" alt="Davi-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img align="center" alt="Davi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Davi-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
