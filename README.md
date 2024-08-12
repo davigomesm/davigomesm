@@ -2,13 +2,12 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=24D868&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Davi+Gomes;I'm+23+years+old;I'm+a+programming+student;Majoring+in+computer+science;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=24D868&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nnome+é+Davi+Gomes;Eu+tenho+23+anos;Sou+cientista+de+dados;Formado+em+Ciência+da+computção;Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
-- 👨🏼‍🎓 Degree in computer science
-- 🌱 Studying Data science, IA, Bigdata...
-- 🎮 Cs game to distract myself
+- 👨🏼‍🎓 Formado em Ciência da Computação
+- 🌱 Estudando Data science, IA, Bigdata...
 - 📫 Email: davigomes.m1@gmail.com
-- 📲 Contact number: +55 (85) 991480647
+- 📲 Numero p/ contato: +55 (85) 991480647
 
 ### Social network and contacts 🌎👇🏻
 <div> 
